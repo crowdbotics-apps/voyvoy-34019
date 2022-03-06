@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@modules/articles": "file:./modules/articles/",
+    "@modules/login": "file:./modules/login/",
     "@modules/maps": "file:./modules/maps/",
     "@modules/user-profile": "file:./modules/user-profile/",
     "@react-native-community/masked-view": "^0.1.10",
